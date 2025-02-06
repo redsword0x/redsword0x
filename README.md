@@ -1,7 +1,4 @@
 <h1 align="center">
-  <br>
-  <img src="https://media.giphy.com/media/WZIwVoYd9kLgW7qj2/giphy.gif" width="200" alt="ZeroFPS Logo" />
-  <br>
   Hello, I'm Rakib! 👋
 </h1>
 
@@ -10,21 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WZIwVoYd9kLgW7qj2/giphy.gif" width="200" alt="ZeroFPS Logo" />
-  <br>
   "The only way to do great work is to love what you do." - Steve Jobs (Modified for your passion for ZeroFPS)
-  <br>
+<br>
   Birthday: January 2nd, 2006 🎂
 </p>
 
 <p align="center">
   Passionate about Cars 🏎️, Football ⚽, and Music 🎵.
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WZIwVoYd9kLgW7qj2/giphy.gif" width="200" alt="ZeroFPS Logo" />
-  <br>
-  Let's connect and build something awesome together!  🤝
 </p>
 
 <p align="center">
