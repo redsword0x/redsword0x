@@ -1,3 +1,4 @@
+![My GIF](rx7-integra.gif)
 <h1 align="center">
   Hello, I'm Rakib! 👋
 </h1>
