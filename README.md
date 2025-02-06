@@ -1,4 +1,4 @@
-![My GIF](car.gif) HIdadadadadadadadadadadad
+![My GIF](car.gif) If you can hear the exhaust sound, You're on my side
 
 <h1 align="center">
   Hello, I'm Rakib! 👋
