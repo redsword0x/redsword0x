@@ -1,4 +1,4 @@
-![My GIF](rx7-integra.gif)
+![My GIF](car.gif)
 
 <h1 align="center">
   Hello, I'm Rakib! 👋
