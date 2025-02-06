@@ -1,4 +1,4 @@
-![My GIF](car.gif)
+![My GIF](car.gif) ![My GIF](car.gif)
 
 <h1 align="center">
   Hello, I'm Rakib! 👋
